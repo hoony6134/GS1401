@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void){
+int main(void)
+{
     int num;
     printf("Please enter your identification number: ");
     scanf("%d", &num);

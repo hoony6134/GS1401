@@ -1,3 +1,0 @@
-D:/Repo/GS1401/cmake-build-debug/CMakeFiles/GS1401.dir
-D:/Repo/GS1401/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Repo/GS1401/cmake-build-debug/CMakeFiles/rebuild_cache.dir
